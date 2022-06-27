@@ -1,0 +1,16 @@
+org/shubhamsingh/sssm/dao/InMemTradeRepositoryTest.class
+org/shubhamsingh/sssm/model/validator/ValidStockTypeValidatorTest.class
+org/shubhamsingh/sssm/model/filter/TradeAgeFilterTest.class
+org/shubhamsingh/sssm/model/validator/ValidParValueValidatorTest.class
+org/shubhamsingh/sssm/model/validator/ValidPriceValidatorTest.class
+org/shubhamsingh/sssm/SssmApplicationTests.class
+org/shubhamsingh/sssm/model/StockValueValidationTest.class
+org/shubhamsingh/sssm/service/calcs/PERatioTest.class
+org/shubhamsingh/sssm/dao/InMemStockRepositoryTest.class
+org/shubhamsingh/sssm/service/calcs/DividendYieldTest.class
+org/shubhamsingh/sssm/service/calcs/VolumeWeightedPriceTest.class
+org/shubhamsingh/sssm/model/validator/ValidTradeIndicatorValidatorTest.class
+org/shubhamsingh/sssm/model/validator/ValidFixedDividendValidatorTest.class
+org/shubhamsingh/sssm/service/calcs/GeometricMeanPriceTest.class
+org/shubhamsingh/sssm/model/validator/ValidLastDividendValidatorTest.class
+org/shubhamsingh/sssm/model/StockValidationTest.class

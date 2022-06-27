@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: org.shubhamsingh.sssm.service.calcs.GeometricMeanPriceTest
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.006 s <<< FAILURE! - in org.shubhamsingh.sssm.service.calcs.GeometricMeanPriceTest
+verify_GM_price3  Time elapsed: 0.005 s  <<< ERROR!
+java.lang.NullPointerException
+	at org.shubhamsingh.sssm.service.calcs.GeometricMeanPriceTest.verify_GM_price3(GeometricMeanPriceTest.java:61)
+

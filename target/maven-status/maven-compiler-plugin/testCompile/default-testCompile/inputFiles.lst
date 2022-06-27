@@ -1,0 +1,16 @@
+/Users/shubhasingh/Desktop/sssm/src/test/java/org/shubhamsingh/sssm/service/calcs/GeometricMeanPriceTest.java
+/Users/shubhasingh/Desktop/sssm/src/test/java/org/shubhamsingh/sssm/service/calcs/DividendYieldTest.java
+/Users/shubhasingh/Desktop/sssm/src/test/java/org/shubhamsingh/sssm/dao/InMemTradeRepositoryTest.java
+/Users/shubhasingh/Desktop/sssm/src/test/java/org/shubhamsingh/sssm/model/validator/ValidStockTypeValidatorTest.java
+/Users/shubhasingh/Desktop/sssm/src/test/java/org/shubhamsingh/sssm/service/calcs/VolumeWeightedPriceTest.java
+/Users/shubhasingh/Desktop/sssm/src/test/java/org/shubhamsingh/sssm/model/validator/ValidLastDividendValidatorTest.java
+/Users/shubhasingh/Desktop/sssm/src/test/java/org/shubhamsingh/sssm/model/validator/ValidTradeIndicatorValidatorTest.java
+/Users/shubhasingh/Desktop/sssm/src/test/java/org/shubhamsingh/sssm/model/filter/TradeAgeFilterTest.java
+/Users/shubhasingh/Desktop/sssm/src/test/java/org/shubhamsingh/sssm/SssmApplicationTests.java
+/Users/shubhasingh/Desktop/sssm/src/test/java/org/shubhamsingh/sssm/model/validator/ValidFixedDividendValidatorTest.java
+/Users/shubhasingh/Desktop/sssm/src/test/java/org/shubhamsingh/sssm/model/validator/ValidParValueValidatorTest.java
+/Users/shubhasingh/Desktop/sssm/src/test/java/org/shubhamsingh/sssm/model/StockValueValidationTest.java
+/Users/shubhasingh/Desktop/sssm/src/test/java/org/shubhamsingh/sssm/model/StockValidationTest.java
+/Users/shubhasingh/Desktop/sssm/src/test/java/org/shubhamsingh/sssm/dao/InMemStockRepositoryTest.java
+/Users/shubhasingh/Desktop/sssm/src/test/java/org/shubhamsingh/sssm/service/calcs/PERatioTest.java
+/Users/shubhasingh/Desktop/sssm/src/test/java/org/shubhamsingh/sssm/model/validator/ValidPriceValidatorTest.java
